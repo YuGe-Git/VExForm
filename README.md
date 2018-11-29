@@ -56,4 +56,4 @@ Infos：
 
 视频教程
 ------------------------
-      上传中...
+https://www.bilibili.com/video/av37024666
