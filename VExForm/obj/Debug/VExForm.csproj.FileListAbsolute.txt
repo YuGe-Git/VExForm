@@ -1,0 +1,11 @@
+E:\Desktop\VC-Editor\VC-Editor\ExForm\bin\Debug\VExForm.pdb
+E:\Desktop\VC-Editor\VC-Editor\ExForm\obj\Debug\VExForm.Top_Border.resources
+E:\Desktop\VC-Editor\VC-Editor\ExForm\obj\Debug\VExForm.files.resources
+E:\Desktop\VC-Editor\VC-Editor\ExForm\obj\Debug\VExForm.Properties.Resources.resources
+E:\Desktop\VC-Editor\VC-Editor\ExForm\obj\Debug\VExForm.VexForm.resources
+E:\Desktop\VC-Editor\VC-Editor\ExForm\obj\Debug\VExForm.csproj.GenerateResource.cache
+E:\Desktop\VC-Editor\VC-Editor\ExForm\obj\Debug\VExForm.csproj.CoreCompileInputs.cache
+E:\Desktop\VC-Editor\VC-Editor\ExForm\obj\Debug\VExForm.pdb
+E:\Desktop\VC-Editor\VC-Editor\ExForm\obj\Debug\VExForm.Controls.Border.resources
+E:\Desktop\VC-Editor\VC-Editor\ExForm\bin\Debug\VExForm.dll
+E:\Desktop\VC-Editor\VC-Editor\ExForm\obj\Debug\VExForm.dll
