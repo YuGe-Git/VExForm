@@ -13,7 +13,7 @@ Download link 下载链接
 
 GitHub: https://github.com/For-Start/VExForm
 
-Mcbbs: 
+Mcbbs: http://www.mcbbs.net/thread-832066-1-1.html
 
 详细信息 
 ------------------------
